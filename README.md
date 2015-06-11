@@ -1,4 +1,4 @@
 # ab
 
-Home for simulations explaining AB testing and evaluating new methods
+Collecing up lots of bits of AB simulations, Chi2, Bayesian, Stopping conditions, Regret minimization from assorted python notebooks and scripts.
 
