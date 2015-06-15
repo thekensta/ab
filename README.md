@@ -2,6 +2,8 @@
 
 Collecing up lots of bits of AB simulations, Chi2, Bayesian, Stopping conditions, Regret minimization from assorted python notebooks and scripts.
 
+[Link to Github Pages](https://thekensta.github.io/ab)
+
 References:
 
 - [Stopping Criteria](http://blog.custora.com/2012/05/a-bayesian-approach-to-ab-testing/)
